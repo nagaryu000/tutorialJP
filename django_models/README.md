@@ -99,7 +99,7 @@ Djangoのモデルは特別なオブジェクトで、`データベース`に格
 `blog/models.py`ファイルで`Models`と呼ばれる全てのオブジェクトを定義します。これがブログポストを定義する場所です。
 
 `blog/models.py`を開いて全部削除し、下のコードを書きます：
-
+`blog/models.py`
     from django.db import models
     from django.utils import timezone
 
